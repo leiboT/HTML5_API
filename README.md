@@ -5,9 +5,9 @@
 * API : fullscreen, canvas, video, getUserMedia 结合使用
 
 ## 界面效果
-![](http://leibo.group/image/result1.png)
-![](http://leibo.group/image/result2.jpg)
-![](http://leibo.group/image/result3.jpg)
+![](http://leibo.group/image/HTML5API/result1.png)
+![](http://leibo.group/image/HTML5API/result2.jpg)
+![](http://leibo.group/image/HTML5API/result3.jpg)
 
 ## 有问题
 可以用以下联系方式跟我交流
